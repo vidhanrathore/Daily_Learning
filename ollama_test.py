@@ -5,7 +5,7 @@ url = "http://localhost:11434/api/generate"
 
 data = {
     "model": "mistral",
-    "prompt": "what is ollama",
+    "prompt": "what is ollama   ",
     "stream": False
 }
 
